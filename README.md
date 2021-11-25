@@ -28,3 +28,4 @@ STR은 사람들이 활동하고 있는 환경에서 카메라, 센서 등으로
 ![image](https://user-images.githubusercontent.com/71881396/143402506-fb3e1140-93f9-42c4-900b-eb1c0c28e0fa.png)
 
 ## Challenge base line 찍기 
+![image](https://user-images.githubusercontent.com/71881396/143406421-acde4e59-7490-4174-9eca-db3e2fc83ea8.png)
