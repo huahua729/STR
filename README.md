@@ -1,12 +1,14 @@
 # Challenge 2(Scene Text Recognition)
 
+## 동영상 Link
+LINK: https://www.youtube.com/watch?v=IwxWccxEanw
+
 ## Scene Text Recognition
 STR은 사람들이 활동하고 있는 환경에서 카메라, 센서 등으로 기록한 이미지에 포함되어 있는 이미지속의 문자를 인식하는 알고리즘임 
 
 ![image](https://user-images.githubusercontent.com/71881396/143402753-3bbf9256-59fa-48a6-9a5b-63ab65f2fa83.png)
 
-## 동영상 Link
-LINK: https://www.youtube.com/watch?v=IwxWccxEanw
+
 ## Model Architecture
 
 ![image](https://user-images.githubusercontent.com/71881396/143402185-f9961afe-ddd9-4eb4-bb2e-ba319c2c8f1b.png)
